@@ -1,0 +1,1 @@
+# RPICT3toDomoticz
